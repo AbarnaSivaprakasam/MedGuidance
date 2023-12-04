@@ -1,4 +1,4 @@
-# MedGuidance - Image Text Extraction Demo
+# MedGuidance - Image Text Extraction & Personal Recommendation Demo
 
 This demo utilizes Node.js and Express along with the Azure Form Recognizer SDK to extract text from images and uses OpenAI API to offer personal recommendations from the extracted texts. Before starting the demo, **create API Keys for Azure Document Intelligence and Open AI** and configure them in the code. Follow the steps below to set up and run the demo:
 
