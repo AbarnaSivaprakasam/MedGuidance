@@ -1,11 +1,10 @@
 # MedGuidance
-Intern- Abarna Sivaprakasam- Northeastern University
+Abarna Sivaprakasam- Northeastern University
 
 
 **MedGuidance** offers personalized recommendations based on users' prescriptions.
 
 - The computer vision and clinical natural language file includes the project's presentation slides.
-- The `cotiviti_intern` file comprises the project report.
-- `cotiviti.ipynb` contains the Python code for data analysis. To execute the code, Python and Jupyter Notebook are required. Load the dataset from Kaggle at - "https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset" and perform the necessary analysis.
+- `diabetes.ipynb` contains the Python code for data analysis. To execute the code, Python and Jupyter Notebook are required. Load the dataset from Kaggle at - "https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset" and perform the necessary analysis.
 - The demo folder encompasses all the essential steps to execute this project.
 - Please check the video (`video6180486296.mp4`) for a working Proof of Concept.
